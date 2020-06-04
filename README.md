@@ -1,5 +1,18 @@
 # toilamshipper
 
+## Project Repository
+
+https://minhthiennhan.github.io/toilamshipper/
+
+
+## Deployment to github pages
+
+```bash
+gco gh-pages
+comment out /dist in .gitignore
+./deploy.sh
+```
+
 ## Project setup
 ```
 yarn install
